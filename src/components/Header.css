@@ -1,0 +1,14 @@
+.timeline-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem 1.25rem;
+    border-bottom: 1px solid #ebeef8;
+    font-weight: 700;
+    font-size: 1.25rem;
+  }
+  
+  .timeline-header svg {
+    width: 1.5rem;
+    height: 1.5rem;
+    color: var(--twitter-blue);
+  }
