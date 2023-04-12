@@ -17,7 +17,6 @@ Feito somente com a navegação entre a homepage e as respostas. Próximo passo 
 
 
 ![2023-03-21 (2)](https://user-images.githubusercontent.com/104312621/226623164-94f3a329-886a-45be-931a-eb84b7e0279b.png)
-![2023-03-21 (4)](https://user-images.githubusercontent.com/104312621/226623220-531da7e3-39c8-4d8e-a7fa-5c4b87cd7618.png)
 
 
 deploy:
