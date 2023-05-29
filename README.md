@@ -19,5 +19,3 @@ Feito somente com a navegação entre a homepage e as respostas. Próximo passo 
 ![2023-03-21 (2)](https://user-images.githubusercontent.com/104312621/226623164-94f3a329-886a-45be-931a-eb84b7e0279b.png)
 
 
-deploy:
-https://leafy-profiterole-8663fb.netlify.app/
